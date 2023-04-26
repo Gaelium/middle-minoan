@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/middle-minoan/static/css/main.bef72a1a.css",
+    "main.js": "/middle-minoan/static/js/main.643a9bf6.js",
+    "static/js/787.4f1f5424.chunk.js": "/middle-minoan/static/js/787.4f1f5424.chunk.js",
+    "index.html": "/middle-minoan/index.html",
+    "main.bef72a1a.css.map": "/middle-minoan/static/css/main.bef72a1a.css.map",
+    "main.643a9bf6.js.map": "/middle-minoan/static/js/main.643a9bf6.js.map",
+    "787.4f1f5424.chunk.js.map": "/middle-minoan/static/js/787.4f1f5424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef72a1a.css",
+    "static/js/main.643a9bf6.js"
+  ]
+}
