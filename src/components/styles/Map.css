@@ -1,0 +1,17 @@
+.map-overlay {
+  background-color: rgba(255, 245, 215, 0.4);
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.leaflet-popup {
+  max-width: 500px; /* Adjust the width of the popup */
+}
+.leaflet-popup-content {
+  max-height: 500px; /* Set a fixed max-height for the content */
+  overflow-y: auto; /* Enable vertical scrolling when the content exceeds the max-height */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on touch devices */
+}
